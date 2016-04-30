@@ -1,5 +1,5 @@
-#This python file draws the initials NO.
-#By Nick O'Dea, nicholas_odea@umail.ucsb.edu
+#lab03.py This python file draws the initials NO.
+#Nick O'Dea, nicholas_odea@umail.ucsb.edu, for CMPTGCS 20, Spring 2016
 #I hope to try pair programming in the near future.
 
 import turtle
